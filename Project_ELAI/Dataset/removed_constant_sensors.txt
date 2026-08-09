@@ -1,0 +1,7 @@
+sensor3
+sensor4
+sensor8
+sensor13
+sensor19
+sensor21
+sensor22
